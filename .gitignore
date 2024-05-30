@@ -9,3 +9,5 @@ node_modules
 
 # Automatticaly managed by Nextjs framework
 .DS_Store
+
+package-lock.json
